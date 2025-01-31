@@ -19,7 +19,8 @@ jobs:
           path: |
             index.html
             main.css
-            images/
+            home.png
+            homec.png
 
   deploy:
     needs: build
